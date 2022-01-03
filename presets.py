@@ -4,3 +4,4 @@ class Presets(object):
     USER_DETAILS = "<b>Yeni Mesaj:</b>\nİsim: {} {}\nKullanıcı ID'si: {}\nKullanıcı Adı: @{}\nDolandırıcı: {}\nKısıtlı: {}\nDurum: {}\nDC ID'si: {}"
     PM_TXT_ATT = "<b>Şundan İletildi:</b> {}\n<b>İsim:</b> {}\n\n{}"
     PM_MED_ATT = "<b>Şundan İletildi:</b> {} \n<b>İsim:</b> {}"
+    NOT_TEXT = İstekte Bukunduğun İçin Teşekkürler En Kısa Sürede Filmi Atmaya çalışacağız 😉
