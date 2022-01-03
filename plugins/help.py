@@ -32,6 +32,7 @@ async def help_me(bot, message):
         )
     )
 
+
 @Client.on_message(filters.private & filters.text & filters.media))
 async def help_me(bot, message):
     if message.from_user.id == Config.ADMIN:
